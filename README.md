@@ -45,7 +45,7 @@ Before using this app, you need to configure a Google Cloud project with the fol
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/SaifVelly/GoogleDriveUpload.git
-   cd google-drive-integration-app
+   cd GoogleDriveUpload
    ```
 
 2. **Install Dependencies**:
